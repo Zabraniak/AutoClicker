@@ -28,16 +28,16 @@ Auto Clicker is a simple Python script that automates mouse clicks. It prompts t
 ## Usage
 
 1. Clone the repository:
+
    ```sh
    git clone https://github.com/Zabraniak/AutoClicker.git
 
-2. Navigate to the repository folder:
-   ```sh
-   cd auto-clicker
+3. Navigate to the repository folder:
 
 4. Run the script:
+
    ```sh
-   python auto_clicker.py
+   python filename.py
 
 5. Follow the on-screen prompts to set the delay, number of clicks, and pause key.
 
