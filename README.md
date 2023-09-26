@@ -50,7 +50,7 @@ This script requires Python 3.7 or higher. You can download Python from the offi
 No additional dependencies are needed. The script uses the built-in pyautogui, time, and keyboard modules.
 
 ## Contributing
-Contributions are welcome! If you happen to have any improvements or new features to add, feel free to fix this repository, make your changes, and submit a pull request. That's probably too simple thing to improve but yeah :D
+Contributions are welcome! If you have any improvements or new features to add, feel free to fork this repository, make your changes, and submit a pull request. That's probably too simple thing to improve but yeah :D
 
 ## License
 This project is licensed under the MIT License.
